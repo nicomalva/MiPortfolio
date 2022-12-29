@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MiPortfolio/static/css/main.b809e527.css",
+    "main.js": "/MiPortfolio/static/js/main.ca821b98.js",
+    "static/media/LCB-Certificate.jpg": "/MiPortfolio/static/media/LCB-Certificate.31a6a0b436d6483b3a2e.jpg",
+    "static/media/arduino-logo.png": "/MiPortfolio/static/media/arduino-logo.81382af362665fa5df3c.png",
+    "static/media/Perfil.jpeg": "/MiPortfolio/static/media/Perfil.05ec78410989d90dd673.jpeg",
+    "static/media/nodeJs-logo.png": "/MiPortfolio/static/media/nodeJs-logo.80c15dd0bfe93afd8167.png",
+    "static/media/express-logo.png": "/MiPortfolio/static/media/express-logo.cca64e0f360897258ecb.png",
+    "static/media/bs-logo.png": "/MiPortfolio/static/media/bs-logo.87b2b41e1d703d5fc6c1.png",
+    "static/media/react-logo.png": "/MiPortfolio/static/media/react-logo.ab970a613322f3f9c401.png",
+    "static/media/typescript-logo.jpg": "/MiPortfolio/static/media/typescript-logo.24382bf6c8166ea8e89f.jpg",
+    "static/media/css-logo.png": "/MiPortfolio/static/media/css-logo.463e319bad8e0edf1ef7.png",
+    "index.html": "/MiPortfolio/index.html",
+    "main.b809e527.css.map": "/MiPortfolio/static/css/main.b809e527.css.map",
+    "main.ca821b98.js.map": "/MiPortfolio/static/js/main.ca821b98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b809e527.css",
+    "static/js/main.ca821b98.js"
+  ]
+}
